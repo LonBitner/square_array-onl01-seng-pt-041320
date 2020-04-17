@@ -5,4 +5,5 @@ def square_array(array)
   new_array = [integer ** 2]
   return new_array
  end
+ puts "squared #{integer}"
 end
